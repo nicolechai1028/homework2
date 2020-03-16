@@ -33,12 +33,17 @@ body {
   background-color: lightblue;
   margin: 50px;
   padding: 30px;
+  display: inline-block;
 }
 
 .websiteLink {
   text-align: center;
   padding-top: 20px;
   font-size: 20px;
+}
+
+.media {
+  text-align: center;
 }
 
 footer {
@@ -48,7 +53,7 @@ footer {
   height: 80px;
   width: 100%;
   padding-top: 20px;
-  background-color: lightgray;
+  background-color: #F8F9FA;
   color: black;
   text-align: center;
   font-family: 'Abril Fatface', cursive;
